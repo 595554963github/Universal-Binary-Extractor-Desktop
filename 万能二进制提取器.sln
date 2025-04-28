@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "万能二进制提取器", "万能二进制提取器.csproj", "{472CB4B9-F0F8-45C0-A7A1-237E9B86CC39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{472CB4B9-F0F8-45C0-A7A1-237E9B86CC39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{472CB4B9-F0F8-45C0-A7A1-237E9B86CC39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{472CB4B9-F0F8-45C0-A7A1-237E9B86CC39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{472CB4B9-F0F8-45C0-A7A1-237E9B86CC39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0EEF3AA-EA3E-4685-AFBB-A2AFA060B574}
+	EndGlobalSection
+EndGlobal
